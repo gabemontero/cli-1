@@ -6,7 +6,7 @@ require (
 	github.com/google/go-containerregistry v0.8.1-0.20220216220642-00c59d91847c
 	github.com/onsi/gomega v1.19.0
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
-	github.com/schollz/progressbar/v3 v3.8.6
+	github.com/schollz/progressbar/v3 v3.9.0
 	github.com/shipwright-io/build v0.9.0
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
